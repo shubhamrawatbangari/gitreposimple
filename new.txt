@@ -1,0 +1,1 @@
+unable to git add a.txt afre changing user name and email
